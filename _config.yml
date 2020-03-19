@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Xiangshi Yin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior Data Scientst at Cox Automotive Inc."
   location         : "Atlanta, GA"
   employer         :
-  pubmed           : ""
+  # pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=2c5_-R4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xiangshiyin"
+  github           : "xiangshiyin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/xiangshiyin/"
-  orcid            : ""
+  # orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  # twitter          : ""
   vine             :
   weibo            :
   xing             :
