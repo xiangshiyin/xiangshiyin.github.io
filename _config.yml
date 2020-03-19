@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-# atom_feed:
-#   path                   : # blank (default) uses feed.xml
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiangshi Yin"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Senior Data Scientst at Cox Automotive Inc."
   location         : "Atlanta, GA"
   employer         :
