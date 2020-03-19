@@ -17,11 +17,13 @@ Education
 
 Work experience
 ======
-* Feburary 2018 - Present: Data Scientist
-  * Cox Automotive
+* Cox Automotive
+  * December 2019 - Present: Senior Data Scientist
+  * Feburary 2018 - December 2019: Data Scientist II
 
-* August 2015 - Feburary 2018: Lead Data Analyst
-  * Cardlytics
+* Cardlytics
+  * October 2017 - Feburary 2018: Lead Data Analyst
+  * August 2015 - October 2017: Senior Data Analyst
 
 Publications
 ======
