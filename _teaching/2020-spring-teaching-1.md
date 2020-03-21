@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-fall-teaching-1
 venue: "University 1, Department"
-date: 2020
+date: 2020-08-24
 location: "Atlanta, GA"
 ---
 
