@@ -26,7 +26,10 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
+      # The site only uses the client-side Vite build. Some optional vinext
+      # tooling has stricter peer ranges, so keep the lockfile reproducible
+      # while allowing those non-runtime peer declarations.
+      - run: npm ci --legacy-peer-deps
       - run: npm run build:pages
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
