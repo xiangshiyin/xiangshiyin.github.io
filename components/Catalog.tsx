@@ -18,7 +18,10 @@ export function Catalog({ books, content, shortName }: CatalogProps) {
     <div className="book-grid" aria-live="polite">
       {visibleBooks.map((book) => <article className="book" key={`${book.title}-${book.author}`}>
         <div className={`cover ${book.coverColor}`}><span>{shortName}</span><b>{book.title}</b><i>{book.coverMark}</i><span>{book.author}</span></div>
-        <div className="book-meta"><span>{book.genre} · {book.year}</span><h3>{book.title}</h3><h4>{book.author}</h4><p>{book.description}</p></div>
+        <div className="book-meta">
+          <span>{book.genre} · {book.year}</span><h3>{book.title}</h3><h4>{book.author}</h4><p>{book.description}</p>
+          {book.purchaseUrl && <a className="purchase-link" href={book.purchaseUrl} target="_blank" rel="noopener noreferrer" aria-label={`${content.purchaseButtonLabel}：《${book.title}》`}>{content.purchaseButtonLabel} <span aria-hidden="true">↗</span></a>}
+        </div>
       </article>)}
     </div>
   </section>;

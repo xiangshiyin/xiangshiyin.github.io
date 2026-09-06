@@ -23,7 +23,8 @@
     "title": "我们的书",
     "subtitle": "好故事与好思想，值得被长久珍藏。",
     "allGenresLabel": "全部",
-    "filterLabel": "按类别筛选图书"
+    "filterLabel": "按类别筛选图书",
+    "purchaseButtonLabel": "购买此书"
   },
   "about": {
     "eyebrow": "关于出版社",

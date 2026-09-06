@@ -36,13 +36,16 @@ To add a book, copy an existing complete block, paste it before the final `]`, a
   "year": "2026",
   "coverColor": "clay",
   "coverMark": "VII",
-  "description": "A short description of the book."
+  "description": "A short description of the book.",
+  "purchaseUrl": "https://bookstore.example.com/your-book"
 }
 ```
 
 The genre filter buttons are created automatically from the genres used by your books. You do not need to maintain a separate genre list.
 
 Available cover colors are `clay`, `ink`, `moss`, `ochre`, `plum`, and `blue`.
+
+The optional `purchaseUrl` controls the “购买此书” button. Paste a complete address beginning with `https://` to show the button, or use an empty value (`"purchaseUrl": ""`) to hide it.
 
 ## Important JSON rules
 

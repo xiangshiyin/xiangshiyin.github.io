@@ -6,6 +6,7 @@ export type Book = {
   coverColor: string;
   coverMark: string;
   description: string;
+  purchaseUrl?: string;
 };
 
 export type SiteContent = typeof import("@/content/site.json");

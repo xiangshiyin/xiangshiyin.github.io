@@ -47,11 +47,14 @@ Open `content/books.json`.
   "year": "2026",
   "coverColor": "clay",
   "coverMark": "VII",
-  "description": "A short description shown beneath the book."
+  "description": "A short description shown beneath the book.",
+  "purchaseUrl": "https://bookstore.example.com/your-book"
 }
 ```
 
 Use one of these cover colors: `clay`, `ink`, `moss`, `ochre`, `plum`, or `blue`. Genre buttons update automatically from the books in this file.
+
+To show a purchase button, paste the book’s complete sales-page address into `purchaseUrl`. It should begin with `https://`. To hide the button, leave the value empty: `"purchaseUrl": ""`.
 
 ## Update contact information
 
