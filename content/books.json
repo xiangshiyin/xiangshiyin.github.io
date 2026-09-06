@@ -1,0 +1,56 @@
+[
+  {
+    "title": "我们之间的天气",
+    "author": "马文静",
+    "genre": "小说",
+    "year": "2026",
+    "coverColor": "clay",
+    "coverMark": "一",
+    "description": "一部关于姐妹、某个消失的夏天，以及一个家庭如何依靠故事继续生活的温柔小说。"
+  },
+  {
+    "title": "小时光，大世界",
+    "author": "朴一舟",
+    "genre": "随笔",
+    "year": "2025",
+    "coverColor": "ink",
+    "coverMark": "二",
+    "description": "十二篇亲密而诚恳的随笔，写专注、归属，也写日常生活中不经意的惊喜。"
+  },
+  {
+    "title": "倾听指南",
+    "author": "贝诺尔",
+    "genre": "非虚构",
+    "year": "2025",
+    "coverColor": "moss",
+    "coverMark": "三",
+    "description": "一本温暖实用的指南，带我们重新认识倾听——这项足以改变对话与关系的能力。"
+  },
+  {
+    "title": "暮色果园",
+    "author": "林娜",
+    "genre": "诗歌",
+    "year": "2024",
+    "coverColor": "ochre",
+    "coverMark": "四",
+    "description": "一部关于继承与重塑的诗集，扎根于我们离开的故土，也扎根于始终随身携带的风景。"
+  },
+  {
+    "title": "明亮的细节",
+    "author": "沈米拉",
+    "genre": "小说",
+    "year": "2024",
+    "coverColor": "plum",
+    "coverMark": "五",
+    "description": "五段人生在同一条街区交汇，构成一部慷慨、灵动而多彩的城市初作。"
+  },
+  {
+    "title": "恰好的形状",
+    "author": "周丹",
+    "genre": "非虚构",
+    "year": "2023",
+    "coverColor": "blue",
+    "coverMark": "六",
+    "description": "一场关于生活的清醒思考：当我们放下对“更多”的执念，如何建立真正丰盛的人生。"
+  }
+]

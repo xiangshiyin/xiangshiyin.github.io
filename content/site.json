@@ -1,0 +1,68 @@
+{
+  "publisherName": "华文民间文艺出版社",
+  "shortName": "华文",
+  "location": "上海",
+  "foundedYear": "2018",
+  "pageTitle": "华文民间文艺出版社｜独立出版",
+  "pageDescription": "用心做好书，让值得被听见的声音抵达更多读者。探索华文民间文艺出版社的小说、非虚构、随笔与诗歌。",
+  "navigation": {
+    "books": "图书",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "eyebrow": "独立出版 · 上海",
+    "headline": "为心怀好奇的你，",
+    "highlightedHeadline": "出版值得久读的书。",
+    "description": "我们出版小说、非虚构、随笔与诗歌，寻找独特而真诚的声音，让每一本书都经得起时间与重读。",
+    "buttonText": "浏览全部图书",
+    "establishedLabel": "创立于"
+  },
+  "catalog": {
+    "eyebrow": "出版书目",
+    "title": "我们的书",
+    "subtitle": "好故事与好思想，值得被长久珍藏。",
+    "allGenresLabel": "全部",
+    "filterLabel": "按类别筛选图书"
+  },
+  "about": {
+    "eyebrow": "关于出版社",
+    "title": "独立，是我们的选择。",
+    "lead": "华文民间文艺出版社致力于出版观点鲜明、值得在书架上长久留存的作品。",
+    "body": "自2018年创立以来，我们以细致的编辑工作与用心的装帧设计，让有抱负的作品与读者见面。我们相信，出版始终是一场对话——发生在作者与编辑之间，也发生在书与读者、此刻与未来之间。",
+    "statistics": [
+      { "value": "24", "label": "出版图书" },
+      { "value": "18", "label": "奖项与荣誉" },
+      { "value": "9", "label": "发行国家与地区" }
+    ]
+  },
+  "contact": {
+    "eyebrow": "保持联系",
+    "title": "期待听见你的声音。",
+    "sections": [
+      {
+        "title": "日常咨询",
+        "email": "hello@northandfield.com",
+        "description": "上海市静安区愚园路145号\n邮编 200040"
+      },
+      {
+        "title": "媒体与版权",
+        "email": "rights@northandfield.com",
+        "description": "如需样书、采访、活动合作或海外版权信息，欢迎联系我们。"
+      },
+      {
+        "title": "作品投稿",
+        "email": "submissions@northandfield.com",
+        "linkText": "查看投稿须知 →",
+        "description": "我们全年接受经文学代理人推荐的稿件，并于每年九月开放公众投稿。"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "独立好书，用心出版。",
+    "emailLabel": "邮件",
+    "catalogLabel": "书目",
+    "aboutLabel": "关于",
+    "copyright": "© 2026 华文民间文艺出版社。保留所有权利。"
+  }
+}
